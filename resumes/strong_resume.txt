@@ -1,0 +1,4 @@
+John Doe
+3 years experience in Data Science.
+Skills: Python, SQL, Machine Learning, Pandas, TensorFlow, Tableau
+Worked on prediction models and dashboards.

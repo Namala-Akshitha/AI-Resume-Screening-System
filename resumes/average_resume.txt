@@ -1,0 +1,4 @@
+Jane Smith
+1 year experience in analytics.
+Skills: Python, Excel, SQL
+Worked on reports and data cleaning.

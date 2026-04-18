@@ -1,0 +1,10 @@
+Hiring Data Scientist
+
+Required Skills:
+Python
+SQL
+Machine Learning
+Pandas
+TensorFlow
+2+ years experience
+Data visualization preferred
